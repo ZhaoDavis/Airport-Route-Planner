@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FlightRoutePlanner.vcxproj" Id="a85c71a7-3812-4e59-ac7e-9356edd8fadc" />
+</Solution>
